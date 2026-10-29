@@ -353,7 +353,7 @@ def image_bytes(arr, fmt="PNG"):
     return buf.getvalue()
 
 st.title("PragyanAI - Image Processing Tutorial Laboratory")
-st.image("worldcup.avif")
+st.image("rohitsharma")
 st.caption("Upload • Explore • Adjust • Compare • Understand • Download")
 with st.sidebar:
     st.header("Learning Modules")
